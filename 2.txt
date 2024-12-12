@@ -1,2 +1,6 @@
 this is the second line
+<<<<<<< HEAD
 this is the online second line
+=======
+this is the stash line
+>>>>>>> 49bf229 ( fourth rebasing commit)
